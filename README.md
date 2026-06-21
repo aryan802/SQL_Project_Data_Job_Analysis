@@ -1,4 +1,10 @@
-# Data Analyst Job Market Analysis Using SQL
+# Data Analyst Job Market Analysis Using SQL With Dashboard
+
+## Interactive Dashboard
+
+[![Data Jobs Dashboard](dashboard-preview.png)](https://drive.google.com/file/d/1kOC4F2xah5SR5KNfFU8L-idMFseHNBe0/view)
+
+▶ Click the image above to watch the dashboard walkthrough video.
 
 ## Overview
 
